@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on any project that are fun or informative to me or the users or all of the previous :)
 - 📫 How to reach me:
   - E-mail: mohamed_k_ismail@yahoo.com
-  - Discord: Rambo#9723
-  - LinkedIn: https://www.linkedin.com/in/mohamed-ismail-110562204
+  - Discord: Rambo#9723 / rambo._.
+  - LinkedIn: https://www.linkedin.com/in/mohamedismailcs/
 
 <!---
 RamboProg/RamboProg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
