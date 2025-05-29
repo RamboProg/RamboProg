@@ -8,3 +8,7 @@
   - LinkedIn: https://www.linkedin.com/in/mohamedismailcs/
 
 ![RamboProg's Stats](https://github-readme-stats.vercel.app/api?username=RamboProg&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![RamboProg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamboProg&theme=tokyonight&hide_border=true)
+
+![RamboProg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamboProg&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
